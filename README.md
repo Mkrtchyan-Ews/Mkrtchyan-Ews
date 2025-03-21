@@ -1,5 +1,4 @@
- # 💫 About Me:
-🚀 I’m currently working on: Learning and applying DevOps technologies in practice.<br>🤝 I’m looking to collaborate on: Automation, CI/CD, cloud technologies, and DevOps-related projects.<br>✋ I’m looking for help with: Deepening my knowledge in Kubernetes, CI/CD, and cloud security.<br>🌱 I’m currently learning: Core DevOps tools like Docker, Kubernetes, Terraform, Ansible, and CI/CD (Jenkins, GitHub Actions).<br>💬 Ask me about: My learning journey, automation fundamentals, and Python.<br>⚡ Fun fact: “Life becomes much easier with an engineering mindset… especially when everything is automated!” 😆
+
 
 
 ## 🌐 Socials:
